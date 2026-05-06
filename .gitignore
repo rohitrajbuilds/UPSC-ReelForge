@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+.pytest_cache/
+node_modules/
+dist/
+.env
+.DS_Store
+*.log
+backend/outputs/*
+!backend/outputs/.gitkeep
+*.mp4
+*.mp3
+*.wav
+*.srt
+*.tsbuildinfo
+frontend/vite.config.js
+frontend/vite.config.d.ts

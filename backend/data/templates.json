@@ -1,0 +1,27 @@
+{
+  "hook_templates": [
+    "Why does {topic} keep appearing in UPSC discussions? Because it connects core ideas in {category} with everyday governance.",
+    "If you can explain {topic} in under a minute, you are already building a strong {category} answer framework.",
+    "{topic} looks technical at first, but once the core logic is clear, it becomes one of the most scoring areas in {category}."
+  ],
+  "explanation_templates": [
+    "{topic} can be understood as a structured idea within {category} that helps aspirants connect institutions, processes, and outcomes in a simple chain.",
+    "At its core, {topic} is about identifying the principle, the mechanism behind it, and the impact it creates in the wider {category} landscape.",
+    "For UPSC preparation, {topic} should be read through three layers: definition, working process, and why it matters for policy or administration in {category}."
+  ],
+  "example_templates": [
+    "A simple way to remember {topic} is to connect it with a practical case where institutions, citizens, and policy decisions interact visibly.",
+    "Think of a classroom example: when a rule, resource, or public institution affects daily life, it gives you a grounded way to explain {topic}.",
+    "In answer writing, one well-framed real-world style illustration can make {topic} clearer than a long abstract paragraph."
+  ],
+  "upsc_tip_templates": [
+    "In the exam, pair {topic} with one constitutional, policy, or governance keyword so your answer looks analytical rather than descriptive.",
+    "A strong UPSC approach is to write {topic} using a short intro, two crisp dimensions, and one balanced concluding line.",
+    "Revise {topic} with linked keywords from {category} so you can use it in prelims elimination, mains analysis, and interview discussion."
+  ],
+  "closing_templates": [
+    "That is your quick revision of {topic}; keep the concept simple, the example practical, and the answer structure balanced.",
+    "If you remember the logic behind {topic}, you will find it much easier to write sharper UPSC answers in {category}.",
+    "Use this summary of {topic} as a revision trigger before practice questions, and your retention will improve steadily."
+  ]
+}
