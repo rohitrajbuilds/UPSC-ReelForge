@@ -167,6 +167,7 @@ pytest -q
 ## Additional Technical Docs
 
 - `ARCHITECTURE_FLOW.md`: end-to-end engineering walkthrough of request flow, pipeline stages, data persistence, and frontend/backend interaction.
+- `CODE_REFERENCE.md`: code-level reference explaining how the app starts, what each file does, and what every major function/class is responsible for.
 
 ## Content Note
 
