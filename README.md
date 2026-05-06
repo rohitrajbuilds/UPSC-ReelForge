@@ -164,6 +164,10 @@ pytest -q
 - Better background music layering
 - Optional future integration with external LLMs and premium TTS providers
 
+## Additional Technical Docs
+
+- `ARCHITECTURE_FLOW.md`: end-to-end engineering walkthrough of request flow, pipeline stages, data persistence, and frontend/backend interaction.
+
 ## Content Note
 
 All educational copy in this project is original placeholder material generated from local deterministic templates. No copyrighted UPSC book content is included.
